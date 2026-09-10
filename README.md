@@ -1,12 +1,13 @@
-⚡ Electronics Management System
+Electronics Management System – Version 1.0
 
-A comprehensive Electronics Management System developed as a Software Engineering project for Rizvi College of Engineering.
+The system provides basic electronics inventory management operations. An authorized user can add and manage electronic components, view component details, update inventory information, and maintain the availability and quantity of electronic items. Version 1.0 focuses on the fundamental operations required for organizing and managing electronics records efficiently.
 
 ## 📌 Project Version
 
 **Current Version:** `v1.0.0`  
 **Release:** Initial Release  
 **Status:** ✅ Stable
+
 
 
 📌 Overview
