@@ -1,4 +1,5 @@
 Electronics Management System – Version 1.0
+By Rehan Mhate
 
 The system provides basic electronics inventory management operations. An authorized user can add and manage electronic components, view component details, update inventory information, and maintain the availability and quantity of electronic items. Version 1.0 focuses on the fundamental operations required for organizing and managing electronics records efficiently.
 
@@ -492,9 +493,9 @@ Project: Electronics Management System
 
 Institution: Rizvi College of Engineering
 
-Department: [Department Name]
+Department: Computer Engineering
 
-Academic Year: [Academic Year]
+Academic Year: Third Year
 
 Team Members
 Rehan Mhate
