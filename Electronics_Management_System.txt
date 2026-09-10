@@ -31,6 +31,7 @@ The main objectives of the Electronics Management System are:
 * To improve accuracy and organization of records.
 * To make adding, updating, viewing, and deleting records easier.
 * To provide an efficient and user-friendly management system.
+* To maintain an active electronics system so that the students can get their hands on electronics easily
 
 3. KEY FEATURES
 
