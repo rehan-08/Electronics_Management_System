@@ -2,6 +2,13 @@
 
 A comprehensive Electronics Management System developed as a Software Engineering project for Rizvi College of Engineering.
 
+## 📌 Project Version
+
+**Current Version:** `v1.0.0`  
+**Release:** Initial Release  
+**Status:** ✅ Stable
+
+
 📌 Overview
 
 The Electronics Management System (EMS) is a software application designed to simplify and streamline the management of electronic components, devices, inventory, and related records.
